@@ -1,0 +1,33 @@
+1. No Tool Needed
+What are the most popular tourist destinations in Europe?
+
+-------------------------------------------------------
+
+2. Multiple Tools (2+ Tools)
+I’m visiting Rome this weekend. What will the weather be like, and can you find some popular historical attractions and nearby restaurants?
+
+-------------------------------------------------------
+
+3. Follow-up — Depends on Memory
+
+First message:
+
+I’m planning a 5-day trip to Istanbul for me and my wife. We love history and local food.
+
+Follow-up:
+
+Can you suggest a daily itinerary for us?
+
+-------------------------------------------------------
+4. Tool Failure — Bad Input
+
+What is the weather in XYZABC12345?
+
+-------------------------------------------------------
+
+
+5. Tool Failure — No Results
+
+Find tourist attractions in the fictional city of Wakandaville.
+
+-------------------------------------------------------
